@@ -1,0 +1,11 @@
+{
+  "name": "CareLite",
+  "description": "弱网适老多语求助助手 - 极简操作，AI 帮您把模糊表达转成当地语言并生成求助卡，一键发送紧急联系人，支持拍照翻译。",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
